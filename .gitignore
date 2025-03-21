@@ -1,0 +1,26 @@
+# Python virtual environment
+venv/
+
+# Node.js dependencies
+frontend/node_modules/
+
+# Environment variables
+.env
+
+# Flask cache and logs
+__pycache__/
+*.pyc
+*.pyo
+instance/
+*.log
+
+# React build files
+frontend/build/
+
+# MacOS system files
+.DS_Store
+
+# IDE/editor settings
+.vscode/
+*.swp
+*.swo
